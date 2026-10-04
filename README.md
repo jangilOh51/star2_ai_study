@@ -21,6 +21,7 @@ MLP를 직접 구현해 본 수준에서 출발해, AlphaStar(DeepMind, 2019)가
 | 5 | 논문 읽기 (AlphaStar 등) | 병행 | [05_papers](05_papers/) | ⬜ 예정 |
 
 상세 항목과 체크리스트: [docs/learning_plan.md](docs/learning_plan.md)
+AI 활용 기준 (직접 할 것 / 맡길 것): [docs/ai_usage_guide.md](docs/ai_usage_guide.md)
 작업 기록: [docs/worklog.md](docs/worklog.md)
 
 ## 저장소 구조
@@ -31,6 +32,7 @@ star2_ai_study/
 ├── docs/
 │   ├── alphastar_overview.md    # AlphaStar 동작 원리 정리
 │   ├── learning_plan.md         # 단계별 학습 항목, 체크리스트, 참고 자료
+│   ├── ai_usage_guide.md        # AI 도움 받을 것 / 직접 할 것 기준
 │   └── worklog.md               # 날짜별 작업 기록
 ├── 01_pytorch_basics/           # 1단계 실습 코드
 ├── 02_reinforcement_learning/   # 2단계 실습 코드
